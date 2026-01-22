@@ -285,21 +285,21 @@
 
 <!-- Animated visitor counter -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=N1coTom55&label=Profile%20Views&color=6&icon=2&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Nico-Tom95&label=Profile%20Views&color=6&icon=2&pretty=true" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=N1coTom55&style=for-the-badge&color=brightgreen&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=Nico-Tom95&style=for-the-badge&color=brightgreen&label=VISITORS" />
 </div>
 
 <!-- Profile trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N1coTom55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nico-Tom95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br>
 
 <!-- Contribution snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/N1coTom55/N1coTom55/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nico-Tom95/Nico-Tom95/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Animated footer wave -->
@@ -333,7 +333,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/N1coTom55">
+        <a href="https://github.com/Nico-Tom95">
           <img src="https://img.shields.io/badge/💻_Revisa_mis_Proyectos-181717?style=for-the-badge&logoColor=white&labelColor=181717" />
         </a>
       </td>

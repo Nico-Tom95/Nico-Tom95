@@ -368,5 +368,5 @@
     </tr>
   </table>
   
-  <p><sub>Desarrollado con ❤️, código y análisis por <a href="https://github.com/N1coTom55">Nicolás Tomadín Alegre Montañez</a> | Economía + Datos + Tecnología | Actualizado: Enero 2025</sub></p>
+  <p><sub>Desarrollado con ❤️, código y análisis por <a href="https://github.com/N1coTom55">Nicolás Tomadín Alegre Montañez</a> | Economía + Datos + Tecnología | Actualizado: Enero 2026</sub></p>
 </div>

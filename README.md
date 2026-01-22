@@ -210,7 +210,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1coTom55&custom_title=Nicolás's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-Tom95&custom_title=Nicolás's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <br>
@@ -219,15 +219,15 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=N1coTom55&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Nico-Tom95&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1coTom55&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Tom95&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1coTom55&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico-Tom95&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -251,7 +251,7 @@
   <a href="https://www.linkedin.com/in/nicolas-tomadin04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://github.com/N1coTom55" target="_blank">
+  <a href="https://github.com/Nico-Tom95" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </p>
@@ -333,7 +333,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Nico-Tom95">
+        <a href="https://github.com/N1coTom55">
           <img src="https://img.shields.io/badge/💻_Revisa_mis_Proyectos-181717?style=for-the-badge&logoColor=white&labelColor=181717" />
         </a>
       </td>
@@ -368,5 +368,5 @@
     </tr>
   </table>
   
-  <p><sub>Desarrollado con ❤️, código y análisis por <a href="https://github.com/Nico-Tom95">Nicolás Tomadín Alegre Montañez</a> | Economía + Datos + Tecnología | Actualizado: Enero 2025</sub></p>
+  <p><sub>Desarrollado con ❤️, código y análisis por <a href="https://github.com/N1coTom55">Nicolás Tomadín Alegre Montañez</a> | Economía + Datos + Tecnología | Actualizado: Enero 2025</sub></p>
 </div>
